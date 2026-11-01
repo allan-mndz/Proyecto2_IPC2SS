@@ -1,0 +1,80 @@
+{
+  "hash": "17c6185c",
+  "configHash": "3290f57e",
+  "lockfileHash": "28183cff",
+  "browserHash": "4858c4da",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "2b50c70a",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "56d2201b",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "a755c697",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "66c86488",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "43539eae",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "932c928c",
+      "needsInterop": false
+    },
+    "zone.js": {
+      "src": "../../../../../../node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "137a96e3",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "_xhr-chunk-Dl_KFFte": {
+      "file": "_xhr-chunk-Dl_KFFte.js",
+      "isDynamicEntry": false
+    },
+    "common-CvPbqjIW": {
+      "file": "common-CvPbqjIW.js",
+      "isDynamicEntry": false
+    },
+    "core-CmvFG8lK": {
+      "file": "core-CmvFG8lK.js",
+      "isDynamicEntry": false
+    },
+    "createObject-EGeDewuM": {
+      "file": "createObject-EGeDewuM.js",
+      "isDynamicEntry": false
+    },
+    "from-CFGNB-VW": {
+      "file": "from-CFGNB-VW.js",
+      "isDynamicEntry": false
+    },
+    "http-ClkMnSSc": {
+      "file": "http-ClkMnSSc.js",
+      "isDynamicEntry": false
+    },
+    "platform-browser-C-Ky_gQ_": {
+      "file": "platform-browser-C-Ky_gQ_.js",
+      "isDynamicEntry": false
+    }
+  }
+}
